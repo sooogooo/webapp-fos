@@ -2,6 +2,13 @@
 
 一款专业的AI驱动医美咨询应用，专注于"馒化脸"（面部过度填充综合征）的识别、咨询和修复方案推荐。
 
+## 📚 多语言文档 | Multilingual Documentation
+
+- **中文版本** | Chinese Version: [README.md](README.md) (当前文件)
+- **English Version**: [README.en.md](README.en.md)
+- **部署指南** | Deployment Guide (Chinese): [DEPLOYMENT.zh.md](DEPLOYMENT.zh.md)
+- **Deployment Guide (English)**: [DEPLOYMENT.en.md](DEPLOYMENT.en.md)
+
 ## 🎯 项目概述
 
 本应用结合了现代Web技术和AI人工智能，为用户提供：
@@ -41,6 +48,8 @@
 
 ## 🚀 快速开始
 
+> 💡 **详细部署说明**: 完整的部署和使用指南请参考 [DEPLOYMENT.zh.md](DEPLOYMENT.zh.md) | For detailed deployment instructions, see [DEPLOYMENT.en.md](DEPLOYMENT.en.md)
+
 ### 前提条件
 
 - Node.js (推荐版本 16+)
@@ -51,8 +60,8 @@
 
 1. **克隆项目**
    ```bash
-   git clone <repository-url>
-   cd FOS
+   git clone https://github.com/sooogooo/webapp-fos.git
+   cd webapp-fos
    ```
 
 2. **安装依赖**
